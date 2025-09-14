@@ -18,7 +18,7 @@ A simple Streamlit application that tracks and displays the number of visitors t
 
 1. Clone this repository or download the files:
 ```bash
-git clone <repository-url>
+git clone (https://github.com/ng-vanquang/streamlit-count-temp.git)
 # or download manually
 ```
 
